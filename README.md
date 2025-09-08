@@ -14,8 +14,8 @@ Hello! I’m Ethan, and this site contains resources, announcements, and links r
 
 ## 🎥 Helpful Resources
 
-- [My YouTube Channel](https://your-youtube-link-here) – short videos and tutorials on calculus and related topics  
-- [TA Feedback Form](https://your-feedback-form-link-here) – share your thoughts to help me improve  
+- [My YouTube Channel](https://www.youtube.com/channel/UCEctErh1tSLhl8G0pKmm03A) – short videos and tutorials on calculus and related topics  
+- [TA Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSe6XFrh-5lyUcVcwi2NfXvOMLM8dgkOisp_zZxvjL2zSkgCjA/viewform?usp=dialog) – share your thoughts to help me improve  
 
 ---
 
