@@ -19,10 +19,15 @@ Hello! I’m Ethan, and this site contains resources, announcements, and links r
 
 ---
 
+## 📰 Publications
+
+- Coming soon!
+
 ## 🏅 Qualifications
 
-I was honored to be named **Lehigh’s TA of the Year (2024–2025)**.  
-
+- I was honored to be named **Lehigh’s TA of the Year (2024–2025)**.  
+- I am the treasurer of GSIMS (Grad. Student Intercollegiate Mathematics Seminar) (2025-2026).
+  
 ---
 
 *Thanks for visiting, and best of luck in your studies!*
